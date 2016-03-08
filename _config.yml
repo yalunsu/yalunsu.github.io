@@ -4,7 +4,6 @@ title: Yalun Su # Title of your site
 email: yalunsu@gmail.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
-My College Learning Journey in Economics
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yalunsu.com" # the base hostname & protocol for your site
 
