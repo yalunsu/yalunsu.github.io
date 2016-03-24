@@ -4,6 +4,7 @@ layout: post
 ## Education
 London School of Economics
   : MSc Economics + MRes/PhD (Track 2)
+
 University of California, Berkeley 
   : A.B. Applied Mathematics
   : B.A Economics
