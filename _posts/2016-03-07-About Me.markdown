@@ -2,7 +2,7 @@
 layout: post
 ---
 ## Education
-University of California, Berkeley 
+### University of California, Berkeley 
   : A.B. Applied Mathematics
   : B.A Economics
   : B.A. Statistics
