@@ -2,7 +2,9 @@
 layout: post
 ---
 ## Education
-### University of California, Berkeley 
+London School of Economics
+  : MSc Economics + MRes/PhD (Track 2)
+University of California, Berkeley 
   : A.B. Applied Mathematics
   : B.A Economics
   : B.A. Statistics
