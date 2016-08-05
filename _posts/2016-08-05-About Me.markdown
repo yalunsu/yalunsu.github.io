@@ -3,7 +3,7 @@ layout: post
 ---
 ## Education ##
 __The London School of Economics and Political Science__
-	: MSc Econometrics and Mathematical Economics (EME)
+	+ MSc Econometrics and Mathematical Economics (EME)
 
 __University of California, Berkeley__ 
 	: A.B. with distinction in Applied Mathematics
