@@ -3,10 +3,10 @@ layout: post
 ---
 __Education__
 
-+ The London School of Economics and Political Science__
++ The London School of Economics and Political Science
 ..* MSc Econometrics and Mathematical Economics (EME)
 
-+ University of California, Berkeley__ 
++ University of California, Berkeley
 ..* A.B. with distinction in Applied Mathematics
 ..* A.B. with distinction in Economics
 ..* A.B. with distinction in Statistics
