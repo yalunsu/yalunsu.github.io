@@ -11,10 +11,10 @@ __University of California, Berkeley__
   : A.B. with Distinction, Statistics
 
 ## Research Interest: 
-  : __Econometrics:__  econometrics theory, applied econometrics, machine learning.
-  : __Labor Economics:__ - economics of education; human capital; program evaluation
+   __Econometrics__  econometrics theory, applied econometrics, machine learning.
+  : __Labor Economics__ - economics of education; human capital; program evaluation.
   : __Development Economics.__
 
 ## Contact Info:
-  : <Y.Su15@lse.ac.uk>
+   <Y.Su15@lse.ac.uk>
   : <yalunsu@berkeley.edu>
