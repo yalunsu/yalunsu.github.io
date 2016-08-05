@@ -1,9 +1,12 @@
 ---
 layout: post
 ---
+
+I am a MSc candidate in Econometrics and Mathematical Economics (EME) at the London School of Economics and Political Science (LSE). My research interests are in Labor Economics, Applied Econometrics, and Development Economics. Prior LSE, I completed my undergraduate studies in Applied Mathematics, Economics, and Statistics at University of California, Berkeley.
+
 ## Education
-__London School of Economics__
-  : MSc Econometrics and Mathematical Economics + MRes/PhD Economics (Track 2)
+__The London School of Economics and Political Science__
+  : M.Sc., Econometrics and Mathematical Economics (EME)
 
 __University of California, Berkeley__ 
   : A.B. with Distinction, Applied Mathematics
