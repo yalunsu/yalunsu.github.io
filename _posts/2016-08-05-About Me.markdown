@@ -1,14 +1,15 @@
 ---
 layout: post
 ---
-## Education ##
-__The London School of Economics and Political Science__
+__Education__
+
++ The London School of Economics and Political Science__
 ..* MSc Econometrics and Mathematical Economics (EME)
 
-__University of California, Berkeley__ 
-	: A.B. with distinction in Applied Mathematics
-	: A.B. with distinction in Economics
-	: A.B. with distinction in Statistics
++ University of California, Berkeley__ 
+..* A.B. with distinction in Applied Mathematics
+..* A.B. with distinction in Economics
+..* A.B. with distinction in Statistics
 
 ## Research Interest: 
 	: __Econometrics:__  econometrics theory, applied econometrics, machine learning.
