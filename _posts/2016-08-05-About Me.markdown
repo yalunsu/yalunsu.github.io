@@ -1,9 +1,7 @@
 ---
 layout: post
 ---
-
-Education
-==================
+## Education ##
 __The London School of Economics and Political Science__
 	: MSc Econometrics and Mathematical Economics (EME)
 
