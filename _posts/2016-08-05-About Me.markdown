@@ -1,22 +1,20 @@
 ---
 layout: post
 ---
-__Education__
+## Education
+__London School of Economics__
+  : MSc Econometrics and Mathematical Economics + MRes/PhD Economics (Track 2)
 
-+ The London School of Economics and Political Science
-..* MSc Econometrics and Mathematical Economics (EME)
-
-+ University of California, Berkeley
-..* A.B. with distinction in Applied Mathematics
-..* A.B. with distinction in Economics
-..* A.B. with distinction in Statistics
+__University of California, Berkeley__ 
+  : A.B. with Distinction, Applied Mathematics
+  : A.B. with Distinction, Economics
+  : A.B. with Distinction, Statistics
 
 ## Research Interest: 
-	: __Econometrics:__  econometrics theory, applied econometrics, machine learning.
-	: __Labor Economics:__ - economics of education; human capital; program evaluation
-	: __Development Economics.__
+  : __Econometrics:__  econometrics theory, applied econometrics, machine learning.
+  : __Labor Economics:__ - economics of education; human capital; program evaluation
+  : __Development Economics.__
 
 ## Contact Info:
-
-+ <Y.Su15@lse.ac.uk>
-+ <yalunsu@berkeley.edu>
+  : <Y.Su15@lse.ac.uk>
+  : <yalunsu@berkeley.edu>
