@@ -2,12 +2,12 @@
 layout: post
 ---
 ## Education
-__London School of Economics__
-  : MSc Econometrics and Mathematical Economics + MRes/PhD Economics (Track 2)
+__The London School of Economics and Political Science__
+  : MSc Econometrics and Mathematical Economics (EME)
 
 __University of California, Berkeley__ 
-  : A.B. Applied Mathematics
-  : B.A Economics
-  : B.A. Statistics
+  : A.B. with distinction in Applied Mathematics
+  : A.B. with distinction in Economics
+  : A.B. with distinction in Statistics
 
 
