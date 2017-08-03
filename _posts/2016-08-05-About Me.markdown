@@ -6,15 +6,16 @@ Welcome to my page!
 
 I currently work as a Research Specialist for Prof. Manasi Deshpande and her collaborators at the Department of Economics, University of Chicago.
 
-:My research interests are Public Economics and Labor Economics. 
+My research interests are Public Economics and Labor Economics. 
 
-:I completed my undergraduate studies in Applied Mathematics, Economics, and Statistics at University of California, Berkeley. Go Bears!
+I completed my undergraduate studies in Applied Mathematics, Economics, and Statistics at University of California, Berkeley. Go Bears!
 
 ## Education
 __University of California, Berkeley__ 
   : A.B. with Distinction, Applied Mathematics
-  : A.B. with Distinction, Economics
-  : A.B. with Distinction, Statistics
+  : B.A. with Distinction, Economics
+  : B.A. with Distinction, Statistics
+  : Distinction in General Scholarship (Cum Laude)
 
 ## Contact Info:
    <yalunsu@uchicago.edu>
