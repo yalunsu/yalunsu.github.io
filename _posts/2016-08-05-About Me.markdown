@@ -2,22 +2,19 @@
 layout: post
 ---
 
-I am a MSc candidate in Econometrics and Mathematical Economics (EME) at the London School of Economics and Political Science (LSE). My research interests are in Labor Economics, Applied Econometrics, and Development Economics. Prior LSE, I completed my undergraduate studies in Applied Mathematics, Economics, and Statistics at University of California, Berkeley.
+Welcome to my page! 
+
+I currently work as a Research Specialist for Prof. Manasi Deshpande and her collaborators at the Department of Economics, University of Chicago.
+
+:My research interests are Public Economics and Labor Economics. 
+
+:I completed my undergraduate studies in Applied Mathematics, Economics, and Statistics at University of California, Berkeley. Go Bears!
 
 ## Education
-__The London School of Economics and Political Science__
-  : M.Sc., Econometrics and Mathematical Economics (EME)
-
 __University of California, Berkeley__ 
   : A.B. with Distinction, Applied Mathematics
   : A.B. with Distinction, Economics
   : A.B. with Distinction, Statistics
 
-## Research Interest: 
-   __Econometrics__  econometrics theory, applied econometrics, machine learning.
-  : __Labor Economics__ - economics of education; human capital; program evaluation.
-  : __Development Economics.__
-
 ## Contact Info:
-   <Y.Su15@lse.ac.uk>
-  : <yalunsu@berkeley.edu>
+   <yalunsu@uchicago.edu>
