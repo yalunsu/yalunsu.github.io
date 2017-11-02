@@ -4,7 +4,7 @@ layout: post
 
 Welcome to my page! 
 
-I currently work as a Research Specialist for Prof. Manasi Deshpande and her collaborators at the Department of Economics, University of Chicago.
+I currently work as a Research Specialist for Prof. Manasi Deshpande and her collaborators at the Kenneth C. Griffin Department of Economics, the University of Chicago.
 
 My research interests are Public Economics and Labor Economics. 
 
@@ -15,7 +15,7 @@ __University of California, Berkeley__
   : A.B. with Distinction, Applied Mathematics
   : B.A. with Distinction, Economics
   : B.A. with Distinction, Statistics
-  : Distinction in General Scholarship (Cum Laude)
+  : Distinction in General Scholarship
 
 ## Contact Info:
    <yalunsu@uchicago.edu>
