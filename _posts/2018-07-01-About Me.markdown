@@ -4,7 +4,7 @@ layout: post
 
 Welcome to my page! 
 
-I currently work as a Research Specialist for Prof. Manasi Deshpande and her collaborators at the Kenneth C. Griffin Department of Economics, the University of Chicago.
+I currently work as a Research Professional for Prof. Manasi Deshpande and her collaborators at the Kenneth C. Griffin Department of Economics and the Becker Friedman Institute, the University of Chicago.
 
 My research interests are Public Economics and Labor Economics. 
 
@@ -12,9 +12,9 @@ I completed my undergraduate studies in Applied Mathematics, Economics, and Stat
 
 ## Education
 __University of California, Berkeley__ 
-  : Bachelor of Arts in Applied Mathematics, Economics, Statistics (Triple-major)
+  : Bachelor of Arts in Applied Mathematics, Economics, Statistics
   : Distinction in General Scholarship
   : Phi Beta Kappa (2016)
 
 ## Contact Info:
-   <yalunsu@uchicago.edu>
+   <yalunsu[at]uchicago.edu>
