@@ -4,7 +4,7 @@ layout: post
 
 Welcome to my page! 
 
-I currently work as a Research Professional for Prof. Manasi Deshpande and her collaborators at the Kenneth C. Griffin Department of Economics and the Becker Friedman Institute, the University of Chicago.
+I currently work as a Research Professional for Prof. Manasi Deshpande and her collaborators at the Becker Friedman Institute and the Kenneth C. Griffin Department of Economics at the University of Chicago.
 
 My research interests are Public Economics and Labor Economics. 
 
@@ -17,4 +17,4 @@ __University of California, Berkeley__
   : Phi Beta Kappa (2016)
 
 ## Contact Info:
-   <yalunsu[at]uchicago.edu>
+   yalunsu[at]uchicago.edu
