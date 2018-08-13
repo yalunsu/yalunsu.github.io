@@ -4,17 +4,20 @@ layout: post
 
 Welcome to my page! 
 
-I currently work as a Research Professional for Prof. Manasi Deshpande and her collaborators at the Becker Friedman Institute and the Kenneth C. Griffin Department of Economics at the University of Chicago.
+I currently work as a Research Professional for Prof. Manasi Deshpande and her collaborators at the Kenneth C. Griffin Department of Economics and Becker Friedman Institute at the University of Chicago.
 
-My research interests are Public Economics and Labor Economics. 
+My research interests are Public Economics, Labor Economics, and Inequality. 
 
-I completed my undergraduate studies in Applied Mathematics, Economics, and Statistics at University of California, Berkeley. Go Bears!
+## Work in Progress
+"Disability and Distress: The Effect of Disability Programs on Financial Outcomes" (with [Manasi Deshpande](https://sites.google.com/site/mdeshpandeecon) and [Tal Gross](sites.bu.edu/talgross/))
 
 ## Education
+__London School of Economics__
+  : MSc. in Econometrics and Mathematical Economics
 __University of California, Berkeley__ 
-  : Bachelor of Arts in Applied Mathematics, Economics, Statistics
+  : BA in Applied Mathematics, Economics, Statistics
   : Distinction in General Scholarship
-  : Phi Beta Kappa (2016)
+  : Phi Beta Kappa
 
 ## Contact Info:
    yalunsu[at]uchicago.edu
